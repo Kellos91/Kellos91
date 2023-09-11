@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kellos91
 - 👀 I’m interested in learning more about the tech realm
-- 🌱 I’m currently learning International Law, Cyber Security, and Python
+- 🌱 I’m currently learning Web development and Cyber Security
 - 💞️ I’m looking to collaborate on (nothing at the moment, but that will change at the first oppurtunity)
 
 <!---
